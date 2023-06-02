@@ -11,9 +11,11 @@ Week 1
     GIT- Github
     Data types
     OOPS - concepts
-    Static
     access modifiers
     packages
+    Static
+    constructor
+    interface
 
 Week 2
     Strings
