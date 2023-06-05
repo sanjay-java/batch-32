@@ -4,4 +4,4 @@
 #### What is ternary operator?
   - Ternary operator , also called conditional operator is used to decide which value to assign to a variable based on a Boolean value evaluation. It's denoted as ?
 
-#### Read about Java Operators (here)[https://www.programiz.com/java-programming/operators]
+#### Read about Java Operators [here](https://www.programiz.com/java-programming/operators)
