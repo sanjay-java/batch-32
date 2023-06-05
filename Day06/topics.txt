@@ -1,0 +1,11 @@
+-Java Operators
+  - Arithmetic Operators
+    +, - , *, / , % , ++, --
+  - logical Operators
+    &&, ||, !
+  - assignment Operators
+    =, +=, -=, *=, /=, %=
+  - comparision Operators
+    >, <, ==, !=, >=, <=
+- Conditions
+- Loops
