@@ -1,0 +1,3 @@
+- Arrays
+- Big O notation
+- Data structures
