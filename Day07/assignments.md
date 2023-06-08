@@ -1,6 +1,6 @@
 - Given an integer array, write a program to find the largest and smallest number in the array.
 
-- Write a program to reverse an Arrays
+- Write a program to reverse an Array.
 
 - Given an integer array of size N, write a program to rotate the array left by "x" positions.
   Example:
